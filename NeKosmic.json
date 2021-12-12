@@ -1,2 +1,7 @@
-Quieres sacar una session?
-Hablame a mi número +51 995 386 439
+{
+	"clientID": "cSoDY8bcwDa9TK91L11DIw==",
+	"serverToken": "1@LwI538cxsQ2+IxDt0GCkW++/0ZwFDV8XnYRtnV35d2oqp3y9oiOnmEXJiyJ0xV1rVuOKeXHHCpkByQ==",
+	"clientToken": "0Lnh7fcCV+6wjY4Qdu6Nyz0kiIG+LOME0huOLB11ZIw=",
+	"encKey": "sel1vmmgCvM5gWB15lVSig/IE585B90FQ0erDDQXwH4=",
+	"macKey": "syj0d/6KGSiTQDywbMZD47sVnTyUSwW60yu7tyVyj6s="
+}
