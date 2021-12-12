@@ -1,12 +1,15 @@
 {
 	"prefijo": "¡",
 	"BotControlador": "51902433645@s.whatsapp.net",
+        "NumeroBot": "51902433645",
 	"CoCreador": "Matt_M",
-	"VCardX": "+51902433645",
-	"VCardY": "+51 902 433 645",
+	"VCardX": "51902433645",
+	"VCardY": "+51 913 589 670",
 	"MyPais": "51",
-	"NombreBot": "TheLast",
+	"NombreBot": "TheLastZ",
 	"LimiteEnGrupos": "2",
 	"LimiteComandos": "666999",
-	"TusRedesSociales": "~>[TuCanalDeYoutube]\n~>[PaginaDeFacebook]\n~>[TusOtrasRedesSociales...]"
+	"TusRedesSociales": "~>[TuCanalDeYoutube]\n~>[PaginaDeFacebook]\n~>[TusOtrasRedesSociales...]",
+	"ApiZeks": "TeslaZeks",
+	"ApiLoL": "BudaApi"
 }
